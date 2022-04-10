@@ -5,7 +5,6 @@ import Features from "../components/Features";
 import Footer from "../components/Footer";
 import Header from "../components/Header";
 import Info from "../components/Info";
-import Nav from "../components/Nav";
 import NavComponent from "../components/NavComponent";
 
 export default function Home() {
